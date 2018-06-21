@@ -1,6 +1,6 @@
 # powerdns_mongodb_backend
 
-More informations on: https://lanbugs.de/howtos/linux/mongodb-und-python/
+More informations on: https://lanbugs.de/howtos/python-co/powerdns-mongodb-backend/
 
 The schema for the collection in mongoDB is:
 
